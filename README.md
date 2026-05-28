@@ -1,10 +1,5 @@
-================================================================
-  CASHMIND BOT — Bot Keuangan Telegram dengan Google Sheet
-================================================================
-  Dibuat dengan Python, Telegram Bot API, Groq AI, dan gspread
-  Versi: Multi-User
-================================================================
-
+#CASHMIND BOT — Bot Keuangan Telegram dengan Google Sheet
+#Dibuat dengan Python, Telegram Bot API, Groq AI, dan gspread. Versi: Multi-User
 
 Telegram : https://t.me/repmanbot
 ----------------------------------------------------------------
@@ -65,6 +60,4 @@ Bot secara otomatis mengkategorikan transaksi ke dalam:
   Investasi (20%) - tabungan, saham, emas, reksa dana
   Pemasukan      - gaji, bonus, THR, freelance, cashback
 
-================================================================
-  Terima kasih telah menggunakan CashMind Bot!
-================================================================
+#Terima kasih telah menggunakan CashMind Bot!
